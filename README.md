@@ -1,13 +1,13 @@
 
-# Cognito-Express: API Authentication with AWS Congito
+# Forked from Cognito-Express: API Authentication with AWS Congito
 
 [![NPM](https://nodei.co/npm/cognito-express.png?compact=true)](https://nodei.co/npm/cognito-express/)
 
-[![Build Status](https://travis-ci.org/ghdna/cognito-express.svg?branch=master)](https://travis-ci.org/ghdna/cognito-express)
+[![Build Status](https://travis-ci.org/jcardus/cognito-express.svg?branch=master)](https://travis-ci.org/jcardus/cognito-express)
 [![Package Quality](http://npm.packagequality.com/shield/cognito-express.png)](http://packagequality.com/#?package=cognito-express)
-[![Code Climate](https://codeclimate.com/github/ghdna/cognito-express/badges/gpa.svg)](https://codeclimate.com/github/ghdna/cognito-express/)
-[![Coverage Status](https://coveralls.io/repos/github/ghdna/cognito-express/badge.svg?branch=master)](https://coveralls.io/github/ghdna/cognito-express?branch=master)
-[![dependencies Status](https://david-dm.org/ghdna/cognito-express/status.svg)](https://david-dm.org/ghdna/cognito-express)
+[![Code Climate](https://codeclimate.com/github/jcardus/cognito-express/badges/gpa.svg)](https://codeclimate.com/github/jcardus/cognito-express/)
+[![Coverage Status](https://coveralls.io/repos/github/jcardus/cognito-express/badge.svg?branch=master)](https://coveralls.io/github/jcardus/cognito-express?branch=master)
+[![dependencies Status](https://david-dm.org/jcardus/cognito-express/status.svg)](https://david-dm.org/jcardus/cognito-express)
 [![Downloads](https://img.shields.io/npm/dt/cognito-express.svg)](https://www.npmjs.com/package/cognito-express)
 
 ## Synopsis

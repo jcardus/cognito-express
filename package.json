@@ -39,10 +39,10 @@
    },
    "repository": {
       "type": "git",
-      "url": "git+https://github.com/ghdna/cognito-express.git"
+      "url": "git+https://github.com/jcardus/cognito-express.git"
    },
    "bugs": {
-      "url": "https://github.com/ghdna/cognito-express/issues"
+      "url": "https://github.com/jcardus/cognito-express/issues"
    },
-   "homepage": "https://github.com/ghdna/cognito-express#readme"
+   "homepage": "https://github.com/jcardus/cognito-express#readme"
 }
